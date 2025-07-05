@@ -1,0 +1,8 @@
+node_modules
+*.vsix
+.env
+.idea
+.vscode
+.DS_Store
+.vscode-test
+TREE.md
