@@ -16,7 +16,6 @@
         "Themes"
     ],
     "main": "./out/extension.js",
-    "activationEvents": ["*"],
     "contributes": {
         "themes": [
             {
@@ -27,8 +26,16 @@
         ],
         "commands": [
             {
-                "command": "myTheme.adjustTheme",
-                "title": "Adjust Theme Settings"
+                "command": "myTheme.adjustBrightness",
+                "title": "Adjust Theme Brightness"
+            },
+            {
+                "command": "myTheme.adjustShade",
+                "title": "Adjust Theme Shade"
+            },
+            {
+                "command": "myTheme.adjustFontBrightness",
+                "title": "Adjust Font Brightness"
             }
         ]
     },

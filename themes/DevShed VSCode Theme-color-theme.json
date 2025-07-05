@@ -28,6 +28,8 @@
         "statusBarItem.hoverBackground": "#1B2631CC",
         "statusBarItem.prominentBackground": "#1B2631",
         "statusBarItem.prominentHoverBackground": "#1B2631CC",
+        "statusBar.debuggingBackground": "#ff9800",
+        "statusBar.debuggingForeground": "#222222",
         "titleBar.activeBackground": "#0C141B",
         "titleBar.activeForeground": "#B2D0F7",
         "titleBar.inactiveBackground": "#0C141B",
