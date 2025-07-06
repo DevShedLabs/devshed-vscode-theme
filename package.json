@@ -2,7 +2,7 @@
     "name": "devshed-vscode-theme",
     "displayName": "DevShed VSCode Theme",
     "description": "Modern dark VSCode theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "DevShedLabs",
     "license": "MIT",
     "repository": {
@@ -16,7 +16,9 @@
         "Themes"
     ],
     "main": "./out/extension.js",
-    "activationEvents": ["*"],
+    "activationEvents": [
+        "*"
+    ],
     "contributes": {
         "themes": [
             {
