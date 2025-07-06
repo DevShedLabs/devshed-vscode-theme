@@ -50,6 +50,7 @@
         "tab.inactiveForeground": "#718296",
         "tab.activeBackground": "#09121c",
         "tab.activeForeground": "#B2D0F7",
+        "tab.activeBorderTop": "#81bbeb",
         "tab.hoverBackground": "#1B2631CC",
         "tab.hoverForeground": "#B2D0F7",
         "editorGroupHeader.tabsBorder": "#1B2631",
